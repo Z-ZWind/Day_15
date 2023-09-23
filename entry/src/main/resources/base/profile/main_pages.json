@@ -1,0 +1,17 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/LoginPage",
+    "pages/HomePage",
+    "pages/PrivateCenter",
+    "pages/Private",
+    "pages/SettingPage",
+    "pages/login",
+    "pages/PocketPage",
+    "pages/WearPage",
+    "pages/MoviePage",
+    "pages/examplePage",
+    "pages/DetailPage",
+    "pages/MyFriends"
+  ]
+}
